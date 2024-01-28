@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c334ae853517703438254fa310a46732
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - mesh: {instanceID: 0}
+  - defaultPickupItem: {fileID: 8918182818929436863, guid: 36c20d15b3a66e44aa2e41fd3643942b, type: 3}
+  - itemPickupGraphic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
